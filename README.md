@@ -1,5 +1,4 @@
-# AndroidResource
-Android学习资源
+# Android学习资源
 
 ## 在线开放课程链接
 http://61.142.174.196/wv/7076365
